@@ -1,0 +1,39 @@
+<html>
+    <title>Вложитесь в что-то!
+    </title>
+    <body style="font-family:sans-serif">
+       <header style="text-align:center;background:white">
+           <img src="https://i.pinimg.com/564x/a9/45/68/a94568ed9895880d2ed5c89390aa0296.jpg"width="60px" height="55px"/>
+            <h1 style="font-size:50px">Хотите вложится в приют животных или забрать себе мохнатого друга?</h1>
+            <a href="#who" style="font-size:30px">Кого заберете?</a>
+        </header>
+        <main>
+            <h2 style="text-align:center;font-size:40px"><b>У нас есть много животных и филиалов</b></h2>
+            <p style="font-size:30px">Есть куча животных которые нуждаются в заботе и вы можете забрать их к себе домой посмотрите по какому адресу каждые расположены!</p>
+            <p style="font-size:20px">Если вы хотите взять собаку или кошку, не ищите питомник, в котором можно купить щенка или котенка - просто свяжитесь с нами, и вы обязательно найдете себе самого лучшего друга. Во всем мире это уже стало доброй традицией - человек, который решил завести питомца, обращается в приют, чтобы подарить заботу и любовь тому, кто уже появился на свет, но ему почему-то досталась нелегкая судьба. Мы поможем вам выбрать животное с учетом ваших пожеланий и предпочтений, с радостью познакомим со всеми нашими собаками и кошками. Все наши питомцы привиты и стерилизованы.</p>
+            <img src="https://i.pinimg.com/564x/2a/d5/f8/2ad5f8a792483e7f4524b35847477160.jpg">
+            <img src="https://i.pinimg.com/564x/3b/27/a7/3b27a7208caeec90c12bfb7e255f24e3.jpg">
+            <img src="https://i.pinimg.com/564x/4a/87/95/4a879531092f5a7114e0ff4a8e7681b8.jpg">
+         <table id="who" style="border-collapse:collapse;border:1px solid red;background:aquamarine">
+             <tr style="border:1px solid red;font-size:20px">
+                 <td>Кошки</td>
+                 <td>Собаки</td>
+                 <td>Хомяки</td>
+             </tr>
+             <tr style="border:1px solid red;font-size:20px">
+                 <td>Ул.Мышь</td>
+                 <td>Ул.Игр</td>
+                 <td>Ул.Еды</td>
+             </tr>
+              <tr style="border:1px solid red;font-size:20px">
+                 <td>Дом 42</td>
+                 <td>Дом 25</td>
+                 <td>Дом 32</td>
+             </tr>
+         </table>
+        </main>
+        <footer style="background:white">
+        <h3>Номер 88005553535</h3>
+        </footer>
+    </body>
+</html>
